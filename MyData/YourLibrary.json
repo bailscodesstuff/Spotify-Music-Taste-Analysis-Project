@@ -1,0 +1,7505 @@
+{
+  "tracks": [
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "Remain"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2",
+      "track": "Gone Away"
+    },
+    {
+      "artist": "Buddy",
+      "album": "Harlan & Alondra",
+      "track": "Real Life S**t"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "Who Hurt You?",
+      "track": "Who Hurt You?"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Make Luv",
+      "track": "Make Luv"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Take Me To Church"
+    },
+    {
+      "artist": "Moses Sumney",
+      "album": "Aromanticism",
+      "track": "Plastic"
+    },
+    {
+      "artist": "Gunna",
+      "album": "Drip Season 3",
+      "track": "Top Off"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Dreaming of David",
+      "track": "Dreaming of David"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Closing: The Chosen Ones"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Tearz"
+    },
+    {
+      "artist": "Freddie Gibbs",
+      "album": "Bandana",
+      "track": "Cataracts"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Holy Will"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "You",
+      "track": "You"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Fine Again"
+    },
+    {
+      "artist": "Erykah Badu",
+      "album": "But You Caint Use My Phone",
+      "track": "Hello"
+    },
+    {
+      "artist": "slowthai",
+      "album": "Nothing Great About Britain",
+      "track": "Ladies"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Foreign 2"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Sail Away Freestyle"
+    },
+    {
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "track": "Babydoll"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Intro (Difference)"
+    },
+    {
+      "artist": "bLAck pARty",
+      "album": "Mango",
+      "track": "Bloom"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Nothing Without Intention (interlude)"
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "track": "The Moment"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Don't Change"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Hate to See Your Heart Break"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Just Me Just Us (feat. Skat & Lowkey)"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Friendship"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Down With the Clique"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "American Problem"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "A.M. Paradox",
+      "track": "Lovely"
+    },
+    {
+      "artist": "L Devine",
+      "album": "Naked Alone",
+      "track": "Naked Alone"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Techno Show"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "5200"
+    },
+    {
+      "artist": "Corinne Bailey Rae",
+      "album": "Corinne Bailey Rae",
+      "track": "Put Your Records On"
+    },
+    {
+      "artist": "Mellow Fellow",
+      "album": "You'll Be Alright",
+      "track": "You'll Be Alright"
+    },
+    {
+      "artist": "Matt Martians",
+      "album": "The Last Party",
+      "track": "Knock Knock"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Moon Undah Water",
+      "track": "Moon Undah Water"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Oodles O' Noodles Babies"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Rose-Colored Boy"
+    },
+    {
+      "artist": "Rhye",
+      "album": "Woman",
+      "track": "Open"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "Rodeo (Expanded Edition)",
+      "track": "90210 (feat. Kacy Hill)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Self Control"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Traces"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "ye",
+      "track": "Ghost Town"
+    },
+    {
+      "artist": "Kaiit",
+      "album": "Live From Her Room",
+      "track": "Girl In The Picture"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "LOOPHOLE"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "It’s All Good"
+    },
+    {
+      "artist": "Joji",
+      "album": "Yeah Right",
+      "track": "Yeah Right"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Dum Surfer"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Interlude: For Us By Us"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Things I Imagined"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "Nobody Cares"
+    },
+    {
+      "artist": "girl in red",
+      "album": "chapter 1",
+      "track": "i wanna be your girlfriend"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "June 29th"
+    },
+    {
+      "artist": "Nirvana",
+      "album": "In Utero - 20th Anniversary - Deluxe Edition",
+      "track": "Heart-Shaped Box"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Mad (feat. Lil Wayne)"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Flemme"
+    },
+    {
+      "artist": "Prima",
+      "album": "June Gloom.",
+      "track": "June Gloom."
+    },
+    {
+      "artist": "The Drums",
+      "album": "Portamento",
+      "track": "Money"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "A Slide In (New Drugs)"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Screwed (feat. Zoë Kravitz)"
+    },
+    {
+      "artist": "LAUSSE THE CAT",
+      "album": "Redstripe Rhapsody",
+      "track": "Redstripe Rhapsody"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Wu-Tang Forever",
+      "track": "Triumph (feat. Cappadonna)"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "ye",
+      "track": "Violent Crimes"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "On Me (feat. Cardi B)"
+    },
+    {
+      "artist": "Crystal Waters",
+      "album": "Music For Girls Night Out",
+      "track": "Gypsy Woman (She's Homeless) - Radio Edit"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Are You Bored Yet? (feat. Clairo)"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "The Krockadile"
+    },
+    {
+      "artist": "KAYTRANADA",
+      "album": "NOTHIN LIKE U / CHANCES",
+      "track": "CHANCES"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "Relax"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "305 To My City"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Habit",
+      "track": "Dirt"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Pray You Catch Me"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Part Of Me"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Your Choice (feat. Burna Boy)"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Sweet FA",
+      "track": "Sweet FA"
+    },
+    {
+      "artist": "Ari Lennox",
+      "album": "Shea Butter Baby",
+      "track": "Up Late"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Fillet-O-Rapper"
+    },
+    {
+      "artist": "Logic",
+      "album": "No Pressure",
+      "track": "Soul Food II"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Almost (Sweet Music)"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Chagu's Sideturn"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Immunity",
+      "track": "Bags"
+    },
+    {
+      "artist": "The Marías",
+      "album": "Clueless",
+      "track": "Clueless"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Sorry"
+    },
+    {
+      "artist": "benny blanco",
+      "album": "FRIENDS KEEP SECRETS",
+      "track": "Break My Heart (feat. Ryan Beatty)"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "HIGHEST IN THE ROOM",
+      "track": "HIGHEST IN THE ROOM"
+    },
+    {
+      "artist": "LAUSSE THE CAT",
+      "album": "The Girl, the Cat and the Tree",
+      "track": "Fuccboi Lullaby"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Sublunary"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Room in Here"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Collection",
+      "track": "Try"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Broken Clocks"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Miserable America"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Dagenham Dream"
+    },
+    {
+      "artist": "Dijon",
+      "album": "Nico's Red Truck",
+      "track": "Nico's Red Truck"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Dreaming of David",
+      "track": "Flowers At The Door"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "LUST."
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Been That Way"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "December 24"
+    },
+    {
+      "artist": "JPEGMAFIA",
+      "album": "Does This Ski Mask Make Me Look Fat?",
+      "track": "Does This Ski Mask Make Me Look Fat?"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "TOGETHER"
+    },
+    {
+      "artist": "Vampire Weekend",
+      "album": "Father of the Bride",
+      "track": "Sunflower (feat. Steve Lacy)"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Rise"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Red Water"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Skin"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Back 2 Back (feat. DigDat)"
+    },
+    {
+      "artist": "girl in red",
+      "album": "chapter 1",
+      "track": "summer depression"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Lost",
+      "track": "Poundz"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "FEEL."
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "Dark Red",
+      "track": "Dark Red"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "CASE STUDY 01",
+      "track": "CYANIDE"
+    },
+    {
+      "artist": "UMI",
+      "album": "Butterfly",
+      "track": "Butterfly"
+    },
+    {
+      "artist": "Joey Pecoraro",
+      "album": "Little Pear",
+      "track": "Your Eyes"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Am I Wrong"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "The Chase (feat. Kadhja Bonet)"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "All Me"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "Team Rocket"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "A Song About Being Sad"
+    },
+    {
+      "artist": "FLOOR CRY",
+      "album": "Drive",
+      "track": "Drive"
+    },
+    {
+      "artist": "Thundercat",
+      "album": "Dragonball Durag",
+      "track": "Black Qualls - Single Version"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Shame On a Nigga"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Portrait of Ned"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Anywhere (feat. Snoop Dogg & The Last Artful, Dodgr)"
+    },
+    {
+      "artist": "Blanco",
+      "album": "English Dubbed",
+      "track": "Pull Up"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Velvet Elvis"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "LOVE. FEAT. ZACARI."
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "Wild"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Too Much"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Pynk (feat. Grimes)"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Potholderz feat. Count Bass D"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Poo-Putt Platter"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Don't Wish Me Well"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Ammi Ammi"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "The Bus Song"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Only Trying 2 Tell U",
+      "track": "Only Trying 2 Tell U"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "Secret Xtians"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Big Wheels"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Private Presley"
+    },
+    {
+      "artist": "Miguel",
+      "album": "All I Want Is You",
+      "track": "Quickie"
+    },
+    {
+      "artist": "Children of Zeus",
+      "album": "Travel Light",
+      "track": "Slow Down"
+    },
+    {
+      "artist": "Tra$h",
+      "album": "AWAKE Vol. 1 - Instrumentals",
+      "track": "SAFE"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Rhinestone"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Come Thru"
+    },
+    {
+      "artist": "Freddie Gibbs",
+      "album": "Alfredo",
+      "track": "Something to Rap About (feat. Tyler, The Creator)"
+    },
+    {
+      "artist": "Triathalon",
+      "album": "Distant",
+      "track": "Distant"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)"
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "track": "New Person, Same Old Mistakes"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "Oxymoron",
+      "track": "Break The Bank"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Family"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Empty"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Stay Flo"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "8"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Loosie"
+    },
+    {
+      "artist": "Grover Washington, Jr.",
+      "album": "Winelight",
+      "track": "Just the Two of Us"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Eye's Drift"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "Death with Dignity"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "I Got the Juice (feat. Pharrell Williams)"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Not Waving, But Drowning"
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "C U Girl",
+      "track": "C U Girl"
+    },
+    {
+      "artist": "Lord Apex",
+      "album": "Interplanetary Funk",
+      "track": "Pretty Penny"
+    },
+    {
+      "artist": "Huck",
+      "album": "Scrimmage",
+      "track": "Scrimmage"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "DYING 4 YOUR LOVE",
+      "track": "DYING 4 YOUR LOVE"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Dull Boys"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Holding On"
+    },
+    {
+      "artist": "GoldLink",
+      "album": "At What Cost",
+      "track": "Herside Story"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "Babushka Boi",
+      "track": "Babushka Boi"
+    },
+    {
+      "artist": "Crumb",
+      "album": "Locket",
+      "track": "Plants"
+    },
+    {
+      "artist": "The Alchemist",
+      "album": "W.Y.G.D.T.N.S. (feat. ScHoolboy Q)",
+      "track": "W.Y.G.D.T.N.S. (feat. ScHoolboy Q)"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+      "track": "When Gloves Come Off (feat. Ryan Beatty)"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "went to meet her (intro)"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "f a r a w a y"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Slow Burn"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "Billion Dogs"
+    },
+    {
+      "artist": "Playboi Carti",
+      "album": "Die Lit",
+      "track": "FlatBed Freestyle"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Powerslide"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "Hi Roller"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Garden Shed (feat. Estelle)"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Lost My Mind"
+    },
+    {
+      "artist": "Break Hamptons",
+      "album": "Hood Puppy, Vol. 1",
+      "track": "Let's Get Married"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Pound Cake / Paris Morton Music 2"
+    },
+    {
+      "artist": "Roddy Ricch",
+      "album": "Please Excuse Me For Being Antisocial",
+      "track": "War Baby"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Brand New Eyes",
+      "track": "Playing God"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Space Cowboy"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Mirror Forever"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "What's Free (feat. Rick Ross & Jay Z)"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "Lipstick Stains"
+    },
+    {
+      "artist": "Rapsody",
+      "album": "The Idea Of Beautiful",
+      "track": "Good Good Love (feat. BJ The Chicago Kid)"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Best Friend",
+      "track": "Best Friend"
+    },
+    {
+      "artist": "Hayley Williams",
+      "album": "Simmer",
+      "track": "Simmer"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "HICCUP (feat. Gunna)"
+    },
+    {
+      "artist": "50 Cent",
+      "album": "Power (Soundtrack from the Starz Original Series)",
+      "track": "Big Rich Town"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Pothole (feat. Jaden Smith)"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "Everybody Works"
+    },
+    {
+      "artist": "slowthai",
+      "album": "Jiggle",
+      "track": "Jiggle"
+    },
+    {
+      "artist": "Moglii",
+      "album": "Tonic Water (Snocker Cot Remix)",
+      "track": "Tonic Water (Snocker Cot Remix)"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "The Season/Carry Me"
+    },
+    {
+      "artist": "Julien Baker",
+      "album": "boygenius",
+      "track": "Stay Down"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Jewelry"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R.",
+      "track": "Focus"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "I Know It's Only Fair"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "Canadian Goose"
+    },
+    {
+      "artist": "Pusha T",
+      "album": "DAYTONA",
+      "track": "Come Back Baby"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Wavy (Interlude) (feat. James Fauntleroy)"
+    },
+    {
+      "artist": "King Krule",
+      "album": "King Krule",
+      "track": "363N63"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Future"
+    },
+    {
+      "artist": "Q",
+      "album": "Forest Green",
+      "track": "Lavender"
+    },
+    {
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "track": "3 Nights"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Can It Be All So Simple / Intermission"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Nowhere2go"
+    },
+    {
+      "artist": "Omar Apollo",
+      "album": "Hit Me Up",
+      "track": "Hit Me Up"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "Ps & Qs"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Tout oublier"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "DAPPERDAN (feat. G Herbo)"
+    },
+    {
+      "artist": "Rod Wave",
+      "album": "Ghetto Gospel",
+      "track": "Sky Priority"
+    },
+    {
+      "artist": "Miguel",
+      "album": "All I Want Is You",
+      "track": "Girl With The Tattoo Enter.lewd"
+    },
+    {
+      "artist": "Hermit and the Recluse",
+      "album": "Orpheus vs. the Sirens",
+      "track": "Orpheus"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp A Butterfly",
+      "track": "Momma"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Cupid Deluxe",
+      "track": "Uncle ACE"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Bermondsey Bosom (Left)"
+    },
+    {
+      "artist": "Cypress Hill",
+      "album": "The Essential Cypress Hill",
+      "track": "Tequila Sunrise (feat. Barron Ricks)"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "You Was Right"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Sex With Nobody"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+      "track": "Lights On (feat. Ryan Beatty & Santigold)"
+    },
+    {
+      "artist": "Don Blackman",
+      "album": "Late Night Tales: Another Late Night - Zero 7",
+      "track": "Holding You, Loving You"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "RATCHET SATURN GIRL"
+    },
+    {
+      "artist": "Leon Thomas",
+      "album": "Genesis",
+      "track": "Beg"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Pay You Back (feat. 21 Savage)"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Pretty Little Birds (feat. Isaiah Rashad)"
+    },
+    {
+      "artist": "Mobb Deep",
+      "album": "Hell On Earth (Explicit)",
+      "track": "Hell on Earth (Front Lines)"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "CANTU"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Glitter"
+    },
+    {
+      "artist": "The Internet",
+      "album": "Ego Death",
+      "track": "Penthouse Cloud"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Protect Ya Neck"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "Yeah Yeah"
+    },
+    {
+      "artist": "Thundercat",
+      "album": "Dragonball Durag",
+      "track": "Dragonball Durag"
+    },
+    {
+      "artist": "Wretch 32",
+      "album": "Growing Over Life",
+      "track": "Open Conversation & Mark Duggan"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "They Only Care About My Fills and Not My Feels"
+    },
+    {
+      "artist": "Shaybo",
+      "album": "Anger",
+      "track": "Anger"
+    },
+    {
+      "artist": "zack villere",
+      "album": "A Feeling",
+      "track": "A Feeling"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Mother"
+    },
+    {
+      "artist": "Erykah Badu",
+      "album": "Worldwide Underground",
+      "track": "Love Of My Life Worldwide"
+    },
+    {
+      "artist": "King Krule",
+      "album": "Alone, Omen 3",
+      "track": "Alone, Omen 3"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Cold Hearted II"
+    },
+    {
+      "artist": "Andie",
+      "album": "One Foot in the Grave",
+      "track": "one foot in the grave"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Cake"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Papercut"
+    },
+    {
+      "artist": "ROLE MODEL",
+      "album": "girl in new york",
+      "track": "girl in new york"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Angel Of Small Death & The Codeine Scene"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "La loi de Murphy"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Forward (feat. James Blake)"
+    },
+    {
+      "artist": "Fantasia",
+      "album": "Fantasia",
+      "track": "When I See U"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "yellow is the color of her eyes",
+      "track": "yellow is the color of her eyes"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss",
+      "track": "Midnight Blue"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "GINGER",
+      "track": "SUGAR"
+    },
+    {
+      "artist": "Omar Apollo",
+      "album": "Erase",
+      "track": "Erase"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Junie"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Apples"
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "Apollo XXI",
+      "track": "Amandla's Interlude"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "Big Fan of the Sesh, Vol. 1",
+      "track": "You Know Better"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 1",
+      "track": "Focus"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Exchange"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Wu-Tang: 7th Chamber"
+    },
+    {
+      "artist": "King Krule",
+      "album": "King Krule",
+      "track": "Lead Existence"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Doves In The Wind (feat. Kendrick Lamar)"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Take a Byte"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "You Don't Know"
+    },
+    {
+      "artist": "Dayglow",
+      "album": "Fuzzybrain",
+      "track": "Can I Call You Tonight?"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Ceiling"
+    },
+    {
+      "artist": "Thundercat",
+      "album": "Drunk",
+      "track": "Friend Zone"
+    },
+    {
+      "artist": "Chance the Rapper",
+      "album": "Coloring Book",
+      "track": "Smoke Break (feat. Future)"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "Follow My Girl"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "Sundress",
+      "track": "Sundress"
+    },
+    {
+      "artist": "GoldLink",
+      "album": "Diaspora",
+      "track": "U Say (feat. Tyler, The Creator & Jay Prince)"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "No Plan"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Pool"
+    },
+    {
+      "artist": "Hermit and the Recluse",
+      "album": "Orpheus vs. the Sirens",
+      "track": "Sirens"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "La Lune"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Drunk (feat. 6LACK)"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Slush Puppy"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Japan"
+    },
+    {
+      "artist": "Last Night In Paris",
+      "album": "Soirée",
+      "track": "Soirée"
+    },
+    {
+      "artist": "Winston Surfshirt",
+      "album": "Sponge Cake",
+      "track": "Be About You"
+    },
+    {
+      "artist": "Crumb",
+      "album": "Locket",
+      "track": "Locket"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "Dawn"
+    },
+    {
+      "artist": "Hope Tala",
+      "album": "Moontime",
+      "track": "Moontime"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Saviers Road"
+    },
+    {
+      "artist": "KIDS SEE GHOSTS",
+      "album": "KIDS SEE GHOSTS",
+      "track": "Reborn"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Burn One (Interlude)"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Runnin’"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "In My Room",
+      "track": "In My Room"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Ottolenghi"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Cheers (feat. Q-Tip)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Futura Free"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+      "track": "Hot Chocolate (feat. Jerry Paper)"
+    },
+    {
+      "artist": "Rod Wave",
+      "album": "PTSD",
+      "track": "Heart On Ice"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "ASTROWORLD",
+      "track": "COFFEE BEAN"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "Erso"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "Ghettobaby",
+      "track": "Mississippi"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Dreams"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "WHY?"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Interlude"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Cementality"
+    },
+    {
+      "artist": "J.I the Prince of N.Y",
+      "album": "Hood Life Krisis Vol. 2",
+      "track": "Love Scars"
+    },
+    {
+      "artist": "Lancey Foux",
+      "album": "FRIEND OR FOUX",
+      "track": "PSYKENIGHT"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Flaw"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Treacherous Doctor"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Ventura",
+      "track": "Reachin' 2 Much (feat. Lalah Hathaway)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Thinkin Bout You"
+    },
+    {
+      "artist": "Kero Kero Bonito",
+      "album": "TOTEP",
+      "track": "Cinema"
+    },
+    {
+      "artist": "Elton John",
+      "album": "Rock Of The Westies",
+      "track": "Don't Go Breaking My Heart"
+    },
+    {
+      "artist": "Dizzee Rascal",
+      "album": "Tongue N' Cheek",
+      "track": "Chillin' Wiv Da Man Dem"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "C.R.E.A.M."
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Wasteland, Baby!"
+    },
+    {
+      "artist": "Electric Light Orchestra",
+      "album": "Out of the Blue",
+      "track": "Mr. Blue Sky"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Be"
+    },
+    {
+      "artist": "Azealia Banks",
+      "album": "1991 - EP",
+      "track": "1991"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Not Me"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "The Motion"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+      "track": "Big Bag"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "Freudian",
+      "track": "Best Part (feat. H.E.R.)"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Ta reine"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "Marika Is Sleeping"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Not Just Money"
+    },
+    {
+      "artist": "Pink Sweat$",
+      "album": "17",
+      "track": "17"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Sunlight"
+    },
+    {
+      "artist": "Kanye West",
+      "album": "Late Registration",
+      "track": "Touch The Sky"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "Operation: Doomsday (Complete)",
+      "track": "Doomsday"
+    },
+    {
+      "artist": "Teedra Moses",
+      "album": "Be Your Girl (Kaytranada Edition)",
+      "track": "Be Your Girl (Kaytranada Edition)"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Corpus Christi"
+    },
+    {
+      "artist": "Jay Electronica",
+      "album": "A Written Testimony",
+      "track": "Ghost Of Soulja Slim"
+    },
+    {
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "track": "King of Everything"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "Baby Are You Home"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "The Locomotive"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "One at a Time"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "Money Longer"
+    },
+    {
+      "artist": "beabadoobee",
+      "album": "Patched Up",
+      "track": "Dance with Me"
+    },
+    {
+      "artist": "Charlotte Day Wilson",
+      "album": "CDW",
+      "track": "Where Do You Go"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Needed"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Love Drought"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Habit",
+      "track": "Slug"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "BORN LIKE THIS (Redux)",
+      "track": "THAT'S THAT"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "Should Have Known Better"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Nights"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "DISTRICT"
+    },
+    {
+      "artist": "Feng Suave",
+      "album": "Feng Suave",
+      "track": "By the Poolside"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "SHINE"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Sandcastles"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Fuck The World (Summer in London)",
+      "track": "Fuck The World (Summer in London)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "End"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Heat Wave"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Empty Vessels"
+    },
+    {
+      "artist": "Young Nudy",
+      "album": "Sli'merre",
+      "track": "Sunflower Seeds"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Karma"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Blink"
+    },
+    {
+      "artist": "George Harrison",
+      "album": "All Things Must Pass",
+      "track": "What Is Life - 2014 Mix"
+    },
+    {
+      "artist": "Lil Baby",
+      "album": "Drip Harder",
+      "track": "Drip Too Hard (Lil Baby & Gunna)"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Lies (feat. Ty Dolla $ign & YG)"
+    },
+    {
+      "artist": "JPEGMAFIA",
+      "album": "Veteran",
+      "track": "Thug Tears"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Trippy (feat. J. Cole)"
+    },
+    {
+      "artist": "Nai Palm",
+      "album": "Needle Paw",
+      "track": "Atoll"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Flash"
+    },
+    {
+      "artist": "Headie One",
+      "album": "Music x Road",
+      "track": "Music x Road"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Nikes"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Eclipse"
+    },
+    {
+      "artist": "DAISY",
+      "album": "HAVE A SNACK",
+      "track": "YOU REMIND ME OF NO ONE"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Biscuit Town"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Green Eyes, Pt. II"
+    },
+    {
+      "artist": "Nas",
+      "album": "Nastradamus",
+      "track": "You Owe Me (feat. Ginuwine)"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Gumbo"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Enjoy Right Now, Today"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Normal Girl"
+    },
+    {
+      "artist": "Migos",
+      "album": "Culture",
+      "track": "Kelly Price (feat. Travis Scott)"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Corduroy Dreams"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Peach Fuzz",
+      "track": "Peach Fuzz"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2",
+      "track": "Lights On"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Grudges"
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "Apollo XXI",
+      "track": "Love 2 Fast"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "(BedHead)"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Rapp Snitch Knishes feat. Mr. Fantastik"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Potato Salad",
+      "track": "Potato Salad"
+    },
+    {
+      "artist": "Jack Harlow",
+      "album": "Confetti",
+      "track": "THRU THE NIGHT (feat. Bryson Tiller)"
+    },
+    {
+      "artist": "Slum Village",
+      "album": "Fantastic, Vol. 2.10",
+      "track": "Fall In Love"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Sidelines"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Heavy Metal"
+    },
+    {
+      "artist": "Omar Apollo",
+      "album": "Today (feat. Teo Halm)",
+      "track": "Today (feat. Teo Halm)"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Harlem's Nocturne"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "WHERE THE CASH AT"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Tell Me How"
+    },
+    {
+      "artist": "Vic Mensa",
+      "album": "HOOLIGANS",
+      "track": "The 1 That Got Away/No Shoes (feat. Charlie Wilson)"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Time"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "L.A."
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Samsonite Man"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "The Mint (feat. Navy Blue)",
+      "track": "The Mint (feat. Navy Blue)"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Czech One"
+    },
+    {
+      "artist": "Bakar",
+      "album": "Will You Be My Yellow?",
+      "track": "Stop Selling Her Drugs (feat. Dominic Fike)"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "It’s Coming Home?"
+    },
+    {
+      "artist": "Drake",
+      "album": "More Life",
+      "track": "Get It Together"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "FEET OF CLAY",
+      "track": "EL TORO COMBO MEAL (feat. Mavi)"
+    },
+    {
+      "artist": "BJ The Chicago Kid",
+      "album": "In My Mind",
+      "track": "Turnin' Me Up"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Pluto Projector",
+      "track": "Pluto Projector"
+    },
+    {
+      "artist": "J Hus",
+      "album": "Big Conspiracy",
+      "track": "Reckless"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Joyride"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Fake Happy"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Numb Numb Juice"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "So Far Gone / Fast Life Bluez"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "I Ain't Got Time!"
+    },
+    {
+      "artist": "TOTO",
+      "album": "Toto",
+      "track": "Georgy Porgy"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "A Life Like This"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Use Me"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "TAPE"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "The Dreamer"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Still into You"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "All I Want"
+    },
+    {
+      "artist": "J Hus",
+      "album": "Daily Duppy (feat. GRM Daily)",
+      "track": "Daily Duppy (feat. GRM Daily)"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Talk 2 U"
+    },
+    {
+      "artist": "Coco & Clair Clair",
+      "album": "Posh",
+      "track": "Outro"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "Swim and Sleep (Like a Shark)"
+    },
+    {
+      "artist": "Yeek",
+      "album": "Cleaner Air",
+      "track": "Cleaner Air"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "Sex & Food",
+      "track": "Hunnybee"
+    },
+    {
+      "artist": "The Internet",
+      "album": "Ego Death",
+      "track": "Special Affair"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "No Shade in the Shadow of The Cross"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Dr. Seuss' The Grinch (Original Motion Picture Soundtrack)",
+      "track": "I Am the Grinch (feat. Fletcher Jones)"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "C.R.E.A.M. (Cash Rules Everything Around Me) - A Cappella"
+    },
+    {
+      "artist": "Headie One",
+      "album": "Music x Road",
+      "track": "Home"
+    },
+    {
+      "artist": "Verb T",
+      "album": "Morning Process",
+      "track": "The Morning Process"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Curiosity"
+    },
+    {
+      "artist": "Coi Leray",
+      "album": "Better Days",
+      "track": "Better Days (feat. Fetty Wap)"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "Faded in the Morning"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Lost",
+      "track": "Around Me"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "All Night"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "From Time"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "Night Time"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "listen before i go"
+    },
+    {
+      "artist": "girl in red",
+      "album": "chapter 1",
+      "track": "girls"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Talk"
+    },
+    {
+      "artist": "Dijon",
+      "album": "Violence)",
+      "track": "Violence)"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Foreword (feat. Rex Orange County)"
+    },
+    {
+      "artist": "Childish Gambino",
+      "album": "3.15.20",
+      "track": "24.19"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "xanny"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Dreaming of David",
+      "track": "Evergreen"
+    },
+    {
+      "artist": "vbnd",
+      "album": "Daughter of the Sun",
+      "track": "Daughter of the Sun"
+    },
+    {
+      "artist": "JAY-Z",
+      "album": "Watch The Throne",
+      "track": "Otis"
+    },
+    {
+      "artist": "Sam Smith",
+      "album": "In The Lonely Hour",
+      "track": "Good Thing"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "Scott and Ramona"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Told You So"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Angel"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Dreaming of David",
+      "track": "Brother"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "- Ugh, those feels again",
+      "track": "Find Someone Like You"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "S McGregor (interlude)"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2",
+      "track": "Every Kind Of Way"
+    },
+    {
+      "artist": "Slum Village",
+      "album": "Detroit Deli (A Taste Of Detroit)",
+      "track": "Selfish"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Protect Ya Neck - Shao Lin Version"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Gang Gang"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "Big Fan of the Sesh, Vol. 1",
+      "track": "Flirt"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Binz"
+    },
+    {
+      "artist": "Break Hamptons",
+      "album": "Hood Puppy, Vol. 1",
+      "track": "Lamb"
+    },
+    {
+      "artist": "Charli XCX",
+      "album": "1999",
+      "track": "1999"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Casino",
+      "track": "Casino"
+    },
+    {
+      "artist": "JAY-Z",
+      "album": "Watch The Throne",
+      "track": "No Church In The Wild"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Yellow of the Sun"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Seigfried"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "Maybe You're the Reason"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "26"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Cupid Deluxe",
+      "track": "It Is What It Is"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "Rick's Toy Box"
+    },
+    {
+      "artist": "Atta Boy",
+      "album": "Out of Sorts",
+      "track": "Saccharine"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "FALLEN Part 2"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2",
+      "track": "Avenue"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Sweet Chick (feat. BJ The Chicago Kid)"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "SAN MARCOS"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Pushing up Daisies"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Full Control"
+    },
+    {
+      "artist": "22Gz",
+      "album": "Blixky Gang Freestyle",
+      "track": "Blixky Gang Freestyle"
+    },
+    {
+      "artist": "Summer Walker",
+      "album": "Girls Need Love",
+      "track": "Girls Need Love"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "CASE STUDY 01",
+      "track": "RESTORE THE FEELING"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Smoke"
+    },
+    {
+      "artist": "Frankie Stew and Harvey Gunn",
+      "album": "Coconuts",
+      "track": "Coconuts"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "When It Rains"
+    },
+    {
+      "artist": "Julien Baker",
+      "album": "boygenius",
+      "track": "Ketchum, ID"
+    },
+    {
+      "artist": "Jay Wile",
+      "album": "Blue Patio",
+      "track": "Numb - Remastered"
+    },
+    {
+      "artist": "Hope Tala",
+      "album": "Lovestained",
+      "track": "Lovestained"
+    },
+    {
+      "artist": "Memphis Bleek",
+      "album": "534",
+      "track": "Dear Summer"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Habit",
+      "track": "Stick"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "New House",
+      "track": "New House"
+    },
+    {
+      "artist": "Inner Wave",
+      "album": "Whoa",
+      "track": "Whoa"
+    },
+    {
+      "artist": "Video Age",
+      "album": "Pop Therapy",
+      "track": "Pop Therapy"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Out Of Your League"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Prom"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Scales (feat. Kelela)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "White"
+    },
+    {
+      "artist": "Bree Runway",
+      "album": "APESHIT",
+      "track": "APESHIT"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "NEW ORLEANS"
+    },
+    {
+      "artist": "Crumb",
+      "album": "Part III",
+      "track": "Part III"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss",
+      "track": "Lust"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Euro"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Take Your Time"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Lonely Weekend"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Lost",
+      "track": "Trust"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Cold Summers"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Exit Scott (interlude)"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Hard Times"
+    },
+    {
+      "artist": "Nicotine's Famous Honey",
+      "album": "An Open Letter",
+      "track": "Closure (Outro) [feat. Nicotine]"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Hallelujah"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Ice Cold Pool"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+      "track": "Whoville"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Ocean Bed"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Nothing Burns Like The Cold"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Fuck The World",
+      "track": "Clouded"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "DUCKWORTH."
+    },
+    {
+      "artist": "Two Door Cinema Club",
+      "album": "Tourist History",
+      "track": "Undercover Martyn"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Good Guy"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Stick"
+    },
+    {
+      "artist": "Last Night In Paris",
+      "album": "Been A Minute",
+      "track": "Been A Minute"
+    },
+    {
+      "artist": "girl in red",
+      "album": "chapter 1",
+      "track": "say anything"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Interlude: I'm Not Angry Anymore"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "DHL",
+      "track": "DHL"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "SOMETHING ABOUT HIM"
+    },
+    {
+      "artist": "Teddy Pendergrass",
+      "album": "TP",
+      "track": "Love T.K.O."
+    },
+    {
+      "artist": "Clarence Carter",
+      "album": "Testifyin'",
+      "track": "I Can't Do Without You"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "If I Was Your Woman / Walk On By"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "For a Pessimist, I'm Pretty Optimistic"
+    },
+    {
+      "artist": "serpentwithfeet",
+      "album": "soil",
+      "track": "bless ur heart"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World",
+      "track": "Grab the Wheel"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Location (feat. Burna Boy)"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Golden Dream"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Movement"
+    },
+    {
+      "artist": "Crumb",
+      "album": "Crumb",
+      "track": "Bones"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Droppin' Seeds (feat. Lil' Wayne)"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "First World Problemz / Nobody Carez"
+    },
+    {
+      "artist": "REASON",
+      "album": "Pop Shit",
+      "track": "Pop Shit"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Montego Bae"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Who Dat Boy (feat. A$AP Rocky)"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Celebrate"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Overtime"
+    },
+    {
+      "artist": "LAUSSE THE CAT",
+      "album": "The Girl, the Cat and the Tree",
+      "track": "Belle Bouteille"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Vulture Baby"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Angel's Pulse",
+      "track": "Dark & Handsome"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "John My Beloved"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR",
+      "track": "NEW MAGIC WAND"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "$5 Subtweet"
+    },
+    {
+      "artist": "Little Dragon",
+      "album": "Little Dragon",
+      "track": "Constant Surprises"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Lonely Blue"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Sometimes"
+    },
+    {
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "track": "Socks"
+    },
+    {
+      "artist": "Casanova",
+      "album": "Behind These Scars",
+      "track": "Live (feat. Giggs)"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "Meet The Woo",
+      "track": "Welcome To The Party"
+    },
+    {
+      "artist": "beabadoobee",
+      "album": "Patched Up",
+      "track": "Eighteen"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Super Rich Kids"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Ain't It Fun"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "Rollin Around"
+    },
+    {
+      "artist": "FLEE",
+      "album": "XOOL SUMMER",
+      "track": "SWISH/USE 2"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Work Song"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One",
+      "track": "The One"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Deep Sea"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Interlude: Dad Was Mad"
+    },
+    {
+      "artist": "Still Woozy",
+      "album": "Lucy",
+      "track": "Lucy"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Sweet FA",
+      "track": "Seventeen"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Everything to Feel Something"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "Nai’s March"
+    },
+    {
+      "artist": "Unknown T",
+      "album": "Rise Above Hate",
+      "track": "LV (feat. Young Adz)"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Missin Out"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Lite Weight"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Put Me Thru"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "1999 WILDFIRE",
+      "track": "1999 WILDFIRE"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "A World Without Snooze, Vol. 2",
+      "track": "Intro"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Own It"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "Baybee"
+    },
+    {
+      "artist": "PARTYNEXTDOOR",
+      "album": "PARTYNEXTDOOR TWO",
+      "track": "Recognize (feat. Drake)"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "So Good At Being in Trouble"
+    },
+    {
+      "artist": "Michael Kiwanuka",
+      "album": "Cold Little Heart",
+      "track": "Cold Little Heart - Radio Edit"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Smile/Petty (feat. Sonyae Elise)"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Pristine"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Hold On, We're Going Home"
+    },
+    {
+      "artist": "Black Eyed Peas",
+      "album": "Elephunk",
+      "track": "Where Is The Love?"
+    },
+    {
+      "artist": "Logic",
+      "album": "YSIV",
+      "track": "YSIV"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "Ghettobaby",
+      "track": "Joy Ride"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Runner"
+    },
+    {
+      "artist": "girl in red",
+      "album": "chapter 1",
+      "track": "4am"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "This Week (feat. Yxng Bane)"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "Everybody Wants To Be Famous"
+    },
+    {
+      "artist": "Madvillain",
+      "album": "Madvillainy",
+      "track": "Accordion"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Already"
+    },
+    {
+      "artist": "Julien Baker",
+      "album": "boygenius",
+      "track": "Salt In The Wound"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Sedated"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss",
+      "track": "as-is"
+    },
+    {
+      "artist": "Summer Walker",
+      "album": "CPR",
+      "track": "CPR"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Dinner & Diatribes"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "What You Waiting For?"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Dragon Days"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Loose Ends"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Native Tongue"
+    },
+    {
+      "artist": "Cornershop",
+      "album": "Brimful of Asha",
+      "track": "Brimful of Asha"
+    },
+    {
+      "artist": "Free Nationals",
+      "album": "Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)",
+      "track": "Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "November"
+    },
+    {
+      "artist": "Quasimoto",
+      "album": "Yessir Whatever",
+      "track": "Catchin' The Vibe"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "DNA."
+    },
+    {
+      "artist": "Ezra Collective",
+      "album": "You Can't Steal My Joy",
+      "track": "What Am I to Do?"
+    },
+    {
+      "artist": "Kaiit",
+      "album": "Live From Her Room",
+      "track": "Duffman"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Curfew..."
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "True to Self",
+      "track": "No Longer Friends"
+    },
+    {
+      "artist": "King Krule",
+      "album": "(Don't Let The Dragon) Draag On",
+      "track": "(Don't Let The Dragon) Draag On"
+    },
+    {
+      "artist": "Blanco",
+      "album": "Shippūden",
+      "track": "Shippūden"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "Ghettobaby",
+      "track": "Baby Boy"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Affection"
+    },
+    {
+      "artist": "Rod Wave",
+      "album": "Pray 4 Love",
+      "track": "Girl Of My Dreams"
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "album": "Stranger in the Alps",
+      "track": "Motion Sickness"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "Take It"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Gabriel"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Parking Lot"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "REEL IT IN"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Dark Circles",
+      "track": "Dark Circles"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Monks"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Slow Down"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Wake Up"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Time (is)"
+    },
+    {
+      "artist": "Jetson",
+      "album": "Culture",
+      "track": "Archy"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Lost"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Garden (Say It Like Dat)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Godspeed"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Charcoal Baby"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Suburbian Born"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Love Galore (feat. Travis Scott)"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Midnight Blue",
+      "track": "Midnight Blue"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Midnight 01 (Deep Sea Diver)"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Les matins"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Fool For You"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Last Girl"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "La thune"
+    },
+    {
+      "artist": "Lancey Foux",
+      "album": "FRIEND OR FOUX",
+      "track": "GHETTO YOUT"
+    },
+    {
+      "artist": "Kaiit",
+      "album": "Live From Her Room",
+      "track": "OG Luv Kush pt.2"
+    },
+    {
+      "artist": "King Krule",
+      "album": "Man Alive!",
+      "track": "Alone, Omen 3"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Headlow (feat. Norelle)"
+    },
+    {
+      "artist": "zack villere",
+      "album": "Sore Throat",
+      "track": "Sore Throat"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Go Now"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Monster",
+      "track": "Monster - Transformers Soundtrack Version"
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Patience",
+      "track": "Patience"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Movies"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Started From the Bottom"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "I Do (End Credits)"
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "album": "People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)",
+      "track": "Can I Kick It?"
+    },
+    {
+      "artist": "Jhené Aiko",
+      "album": "Trip",
+      "track": "Never Call Me"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Your Prime"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Interlude: I Got So Much Magic, You Can Have It (feat. Kelly Rowland & Nia Andrews)"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Flou"
+    },
+    {
+      "artist": "Saba",
+      "album": "Bucket List Project",
+      "track": "Photosynthesis"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "AT.LONG.LAST.A$AP",
+      "track": "Canal St. (feat. Bones)"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Yellow"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Now"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "Big Fan of the Sesh, Vol. 1",
+      "track": "Dinners Gettin' Cold"
+    },
+    {
+      "artist": "Playboi Carti",
+      "album": "Die Lit",
+      "track": "Shoota (feat. Lil Uzi Vert)"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "For Young Hearts",
+      "track": "Blood Honey"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Be Yourself"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "A$AP Forever (feat. Moby)",
+      "track": "A$AP Forever (feat. Moby)"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Uptown Vibes (feat. Fabolous & Anuel AA)"
+    },
+    {
+      "artist": "Roy Blair",
+      "album": "GRAFFITI",
+      "track": "FANTAZIA"
+    },
+    {
+      "artist": "BADBADNOTGOOD",
+      "album": "IV",
+      "track": "Time Moves Slow"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Boredom (feat. Rex Orange County & Anna of the North)"
+    },
+    {
+      "artist": "Logic",
+      "album": "The Incredible True Story",
+      "track": "Like Woah"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "Monki"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "Patterns"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "ilomilo"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "HUMBLE."
+    },
+    {
+      "artist": "Jacob Collier",
+      "album": "Time Alone With You (feat. Daniel Caesar)",
+      "track": "Time Alone With You (feat. Daniel Caesar)"
+    },
+    {
+      "artist": "Budgie",
+      "album": "Panty Soakers 6",
+      "track": "Anything"
+    },
+    {
+      "artist": "beabadoobee",
+      "album": "Patched Up",
+      "track": "Everest"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Attention"
+    },
+    {
+      "artist": "Giveon",
+      "album": "LIKE I WANT YOU",
+      "track": "LIKE I WANT YOU"
+    },
+    {
+      "artist": "Pharrell Williams",
+      "album": "In My Mind",
+      "track": "That Girl"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "The Heart Part 4",
+      "track": "The Heart Part 4"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Ace"
+    },
+    {
+      "artist": "The Internet",
+      "album": "Ego Death",
+      "track": "Palace/Curse (feat. Steve Lacy, feat. Tyler, The Creator, feat. Tyler, The Creator & Steve Lacy)"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Dangerous (feat. Jeremih and PnB Rock)"
+    },
+    {
+      "artist": "Tory Lanez",
+      "album": "Diego",
+      "track": "Diego"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Stevie's Dream"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Let's Find an Out"
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Currents",
+      "track": "Let It Happen"
+    },
+    {
+      "artist": "Future",
+      "album": "HNDRXX",
+      "track": "My Collection"
+    },
+    {
+      "artist": "Musiq Soulchild",
+      "album": "onmyradio",
+      "track": "sobeautiful"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "To Be Alone"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "American Boyfriend"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "TESTING",
+      "track": "Purity (feat. Frank Ocean)"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Sweet FA",
+      "track": "Drop the Guillotine"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Where Do We Go"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Close To You"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Higher"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "TONYA"
+    },
+    {
+      "artist": "King Krule",
+      "album": "Cellular",
+      "track": "Cellular"
+    },
+    {
+      "artist": "Metro Boomin",
+      "album": "NOT ALL HEROES WEAR CAPES",
+      "track": "Space Cadet (feat. Gunna)"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Black Folk"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Arise Dear Brother"
+    },
+    {
+      "artist": "Julien Baker",
+      "album": "boygenius",
+      "track": "Bite The Hand"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Ventura",
+      "track": "Twilight"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "With You"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Tic Tac Toe (feat. Kodak Black)"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Happy & Sad"
+    },
+    {
+      "artist": "Noname",
+      "album": "Telefone",
+      "track": "Shadow Man (feat. Phoelix, Smino & Saba)"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "The Bends"
+    },
+    {
+      "artist": "Teyana Taylor",
+      "album": "How You Want It?",
+      "track": "How You Want It?"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Neptune Estate"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "when the party's over",
+      "track": "when the party's over"
+    },
+    {
+      "artist": "Headie One",
+      "album": "Both",
+      "track": "Both"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Worst Behavior"
+    },
+    {
+      "artist": "Playboi Carti",
+      "album": "Playboi Carti",
+      "track": "dothatshit!"
+    },
+    {
+      "artist": "Ravyn Lenae",
+      "album": "Crush EP",
+      "track": "4 Leaf Clover (feat. Steve Lacy)"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Water Fall (Interluuube)"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Misery Business"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Yesterday's Gone",
+      "track": "Damselfly"
+    },
+    {
+      "artist": "Lancey Foux",
+      "album": "No Intro",
+      "track": "No Intro"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Crack Rock"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "You Keep Me Waiting"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Balance ton quoi"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "Plastic"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Bathed in Grey"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Interlude: Tina Taught Me"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Go Gina"
+    },
+    {
+      "artist": "Hop Along",
+      "album": "Bark Your Head Off, Dog",
+      "track": "How Simple"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "Borderline"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Reach Hi"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Silicon Valley"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "goodbye"
+    },
+    {
+      "artist": "beabadoobee",
+      "album": "Patched Up",
+      "track": "The Way I Spoke"
+    },
+    {
+      "artist": "Young M.A",
+      "album": "Walk",
+      "track": "Walk"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "When You Really Love Someone"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "untitled unmastered.",
+      "track": "untitled 08 | 09.06.2014."
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Formation"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Daddy Lessons"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "I Want You Around",
+      "track": "I Want You Around"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "VIVID"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "Everybody Hates Me"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "As It Was"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Beltway"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Logos"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Right My Wrongs"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "Drawn to the Blood"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Left To Right"
+    },
+    {
+      "artist": "Kofi Stone",
+      "album": "Nobody Cares Till Everybody Does",
+      "track": "Talk About Us"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "Fourth of July"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Americans"
+    },
+    {
+      "artist": "Musiq Soulchild",
+      "album": "Aijuswanaseing",
+      "track": "Just Friends (Sunny)"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "War",
+      "track": "War"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Banter On Me"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Let the Flames Begin"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "Big Fan of the Sesh, Vol. 1",
+      "track": "Pink Sorbet"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "wish you were gay"
+    },
+    {
+      "artist": "Pieces Of A Dream",
+      "album": "The Best Of Pieces Of A Dream",
+      "track": "Fo-Fi-Fo"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Nobody Not Really (Interlude)"
+    },
+    {
+      "artist": "JAY-Z",
+      "album": "Reasonable Doubt",
+      "track": "Regrets"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Ontheway! (feat. Standing On The Corner)"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Know Love"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Facebook Story"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Speed"
+    },
+    {
+      "artist": "Mick Jenkins",
+      "album": "Carefree",
+      "track": "Carefree"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "You Don't Know My Name"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Habit",
+      "track": "Thinning"
+    },
+    {
+      "artist": "A Tribe Called Quest",
+      "album": "The Anthology",
+      "track": "Electric Relaxation"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "The Cadet Leaps"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "I Won't"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Out Getting Ribs"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Andromeda"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Oh, What A World"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Django Jane"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Jerrod"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Angel's Pulse",
+      "track": "Good For You"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "I'm a Witness"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Fast in My Car"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "WEIGHT"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "(One of Those) Crazy Girls"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Krispy"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Swell"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "BERLIN"
+    },
+    {
+      "artist": "Knxwledge",
+      "album": "Hud Dreems",
+      "track": "kometostai.aintreallynootherwaytoputitro"
+    },
+    {
+      "artist": "Jai Paul",
+      "album": "Do You Love Her Now / He",
+      "track": "Do You Love Her Now"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Playing Possum (feat. Cheryl Harris & Keorapetse Kgositsile)"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "- Ugh, those feels again",
+      "track": "Situationship"
+    },
+    {
+      "artist": "half•alive",
+      "album": "still feel.",
+      "track": "still feel."
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "Meet The Woo 2",
+      "track": "Mannequin (feat. Lil Tjay)"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Flintridge"
+    },
+    {
+      "artist": "Joji",
+      "album": "In Tongues (Deluxe)",
+      "track": "Will He"
+    },
+    {
+      "artist": "girl in red",
+      "album": "we fell in love in october / forget her",
+      "track": "we fell in love in october"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "MPR",
+      "track": "MPR"
+    },
+    {
+      "artist": "Julien Baker",
+      "album": "boygenius",
+      "track": "Me & My Dog"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Echo"
+    },
+    {
+      "artist": "ONEFOUR",
+      "album": "Spot the Difference",
+      "track": "Spot the Difference"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Supermodel"
+    },
+    {
+      "artist": "Milo",
+      "album": "So The Flies Don't Come",
+      "track": "Souvenir"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Wu-Tang: 7th Chamber - Part II - Conclusion"
+    },
+    {
+      "artist": "Bon Iver",
+      "album": "i,i",
+      "track": "iMi"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "502 Come Up"
+    },
+    {
+      "artist": "C418",
+      "album": "Minecraft - Volume Alpha",
+      "track": "Sweden"
+    },
+    {
+      "artist": "Kaiit",
+      "album": "Live From Her Room",
+      "track": "OG Luv Kush"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "GOD."
+    },
+    {
+      "artist": "Kenny Allstar",
+      "album": "Tracksuit Love",
+      "track": "Tracksuit Love"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Blossom (Demo) / Be Seeing You",
+      "track": "Blossom - Demo"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss",
+      "track": "Ether"
+    },
+    {
+      "artist": "Amerie",
+      "album": "All I Have",
+      "track": "Why Don't We Fall in Love"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Part II"
+    },
+    {
+      "artist": "The Gap Band",
+      "album": "Gap Gold - Best Of The Gap Band",
+      "track": "Outstanding"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "See You Again (feat. Kali Uchis)"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Furthest Thing"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "i saw you in a dream"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "I'm Full"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss",
+      "track": "limbo lake"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "SPRORGNSM"
+    },
+    {
+      "artist": "Lil Durk",
+      "album": "Signed To The Streets 3",
+      "track": "Neighborhood Hero"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Mississippi"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Lost",
+      "track": "Why'z it so hard"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "My Skin My Logo"
+    },
+    {
+      "artist": "Sophie Ellis-Bextor",
+      "album": "Read My Lips",
+      "track": "Murder On The Dancefloor"
+    },
+    {
+      "artist": "Skepta",
+      "album": "Ignorance is Bliss",
+      "track": "What Do You Mean?"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "So Simple (feat. Lellow)"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "The Mint (feat. Navy Blue)"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "Christopher Walking",
+      "track": "Christopher Walking"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Kon Karne"
+    },
+    {
+      "artist": "Jaden",
+      "album": "SYRE",
+      "track": "B"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "Ghettobaby",
+      "track": "Big Wheels"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "HONEY"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "The Waters"
+    },
+    {
+      "artist": "Syd",
+      "album": "Fin",
+      "track": "All About Me"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Cranes in the Sky"
+    },
+    {
+      "artist": "The Marías",
+      "album": "Superclean, Vol. I",
+      "track": "Basta Ya"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Floating (feat. 21 Savage)"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2",
+      "track": "Still Down"
+    },
+    {
+      "artist": "King Krule",
+      "album": "Man Alive!",
+      "track": "Theme for the Cross"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "Meet The Woo",
+      "track": "Dior"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Party's Over"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Interlude: No Limits"
+    },
+    {
+      "artist": "King Krule",
+      "album": "King Krule",
+      "track": "Portrait In Black and Blue"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Everyday"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "The Sea Liner MK 1"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Wild Time"
+    },
+    {
+      "artist": "Young M.A",
+      "album": "PettyWap",
+      "track": "PettyWap"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "You're A Mean One, Mr. Grinch",
+      "track": "You're A Mean One, Mr. Grinch"
+    },
+    {
+      "artist": "Marcus Miller",
+      "album": "Free",
+      "track": "Free (feat. Corinne Bailey Rae)"
+    },
+    {
+      "artist": "beabadoobee",
+      "album": "Patched Up",
+      "track": "Art Class"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Can I Hold the Mic (interlude)"
+    },
+    {
+      "artist": "Mac Miller",
+      "album": "Circles",
+      "track": "Blue World"
+    },
+    {
+      "artist": "HUNNY",
+      "album": "Vowels (and the Importance of Being Me)",
+      "track": "Vowels (and the Importance of Being Me)"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "bad guy"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Your Dog"
+    },
+    {
+      "artist": "Peach Tree Rascals",
+      "album": "Ultra",
+      "track": "Ultra"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Blossom (Wasting All My Time)"
+    },
+    {
+      "artist": "Break Hamptons",
+      "album": "Hood Puppy, Vol. 1",
+      "track": "Evanie"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "The Sequence"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Water (feat. Lil Baby)"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Going Bad (feat. Drake)"
+    },
+    {
+      "artist": "Chance the Rapper",
+      "album": "The Man Who Has Everything",
+      "track": "The Man Who Has Everything"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "For However Long"
+    },
+    {
+      "artist": "James Blake",
+      "album": "Assume Form",
+      "track": "Mile High"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Yéyé"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp A Butterfly",
+      "track": "These Walls"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "GINGER",
+      "track": "DEARLY DEPARTED"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Another Lifetime"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Idle Worship"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "FEELS"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Peanut"
+    },
+    {
+      "artist": "Current Joys",
+      "album": "Wild Heart",
+      "track": "New Flesh"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Closer To You",
+      "track": "Closer To You"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Fig Leaf Bi-Carbonate"
+    },
+    {
+      "artist": "Varsity",
+      "album": "Cult of Personality - So Sad, So Sad",
+      "track": "So Sad, So Sad"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Forgiveness"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Dirty Computer (feat. Brian Wilson)"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "somethingfartoogoodtofeel"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "High For Hours",
+      "track": "High For Hours"
+    },
+    {
+      "artist": "Faye Webster",
+      "album": "Atlanta Millionaires Club",
+      "track": "Jonny"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "To Noise Making (Sing)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Bad Religion"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Forrest Gump"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "LOYALTY. FEAT. RIHANNA."
+    },
+    {
+      "artist": "Polo G",
+      "album": "Go Stupid (feat. Mike WiLL Made-It)",
+      "track": "Go Stupid (feat. Mike WiLL Made-It)"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Without You"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Brother's Keeper (feat. Pusha T)"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "XXX. FEAT. U2."
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Diary (feat. Tony! Toni! Tone! & Jermaine Paul)"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "Birds In The Trap Sing McKnight",
+      "track": "coordinate"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "Worms"
+    },
+    {
+      "artist": "Break Hamptons",
+      "album": "Hood Puppy, Vol. 1",
+      "track": "Don't Be Famous"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "High Horse"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "Better Things"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Vomitspit"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Uncle ACE",
+      "track": "Uncle ACE - Kindness Remix"
+    },
+    {
+      "artist": "Raveena",
+      "album": "Temptation",
+      "track": "Temptation"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Looking Back"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Self"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2",
+      "track": "I Won't"
+    },
+    {
+      "artist": "Tierra Whack",
+      "album": "Only Child",
+      "track": "Only Child"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Love Supreme"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Don't Forget About Me"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "If You Ever"
+    },
+    {
+      "artist": "Michael Franks",
+      "album": "One Bad Habit",
+      "track": "On My Way Home to You"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Dear Ben"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Interlude: Holiday"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Feeling U, Feeling Me (Interlude)"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Weary"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Stay Down"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "Carrie & Lowell"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Baby Boy"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Proof"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Seventeen"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "God in Jeans"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Out Of Your Way"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "FEAR."
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Love Is A Wild Thing"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Habit",
+      "track": "Habit"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "All I Have - Intro"
+    },
+    {
+      "artist": "Cosmo Pyke",
+      "album": "Just Cosmo",
+      "track": "Great Dane"
+    },
+    {
+      "artist": "Men I Trust",
+      "album": "Lauren",
+      "track": "Lauren"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "One Beer"
+    },
+    {
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "track": "Westcoast Collective"
+    },
+    {
+      "artist": "Musti",
+      "album": "Eastendurz",
+      "track": "Eastendurz"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Nowhere2go",
+      "track": "Nowhere2go"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Interlude: This Moment"
+    },
+    {
+      "artist": "Drake",
+      "album": "Dark Lane Demo Tapes",
+      "track": "Demons (feat. Fivio Foreign & Sosa Geek)"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Drew Barrymore"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Paradise"
+    },
+    {
+      "artist": "Eyedress",
+      "album": "Sensitive G",
+      "track": "Sensitive G"
+    },
+    {
+      "artist": "Charlotte Day Wilson",
+      "album": "Stone Woman",
+      "track": "Funeral"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "The Only Thing"
+    },
+    {
+      "artist": "Adrianne Lenker",
+      "album": "abysskiss",
+      "track": "symbol"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Stuck in My Ways"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Wonder Woman"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "Reflections On The Screen"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Azucar"
+    },
+    {
+      "artist": "George Benson",
+      "album": "Livin' Inside Your Love",
+      "track": "You're Never Too Far from Me"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "GROUP B",
+      "track": "GROUP B"
+    },
+    {
+      "artist": "Jorja Smith",
+      "album": "Let Me Down",
+      "track": "Let Me Down - Shy FX Remix"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Bags",
+      "track": "Bags"
+    },
+    {
+      "artist": "Dori Valentine",
+      "album": "INC.",
+      "track": "INC."
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Method Man - Home Grown Version"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Butterflies"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "you should see me in a crown"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Interlude: The Glory is in You"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "All of Me Wants All of You"
+    },
+    {
+      "artist": "Mac Miller",
+      "album": "Swimming",
+      "track": "Small Worlds"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "SYRE In Abbey Road"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Mansa Musa (feat. Dr. Dre & Cocoa Sarai)"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Tales"
+    },
+    {
+      "artist": "Lunar Vacation",
+      "album": "Swell",
+      "track": "Blue Honey"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Pyramids"
+    },
+    {
+      "artist": "Four Tet",
+      "album": "Sixteen Oceans",
+      "track": "Baby"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Sonder Son (Interlude)"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Sirens"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Come on Then"
+    },
+    {
+      "artist": "NxWorries",
+      "album": "Yes Lawd!",
+      "track": "What More Can I Say"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Something to Believe"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Way to the Show"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Open Interlude"
+    },
+    {
+      "artist": "Still Woozy",
+      "album": "Cooks",
+      "track": "Cooks"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "Caught in the Middle"
+    },
+    {
+      "artist": "Ambrosia",
+      "album": "Life Beyond L.A.",
+      "track": "How Much I Feel"
+    },
+    {
+      "artist": "Justin Timberlake",
+      "album": "Justified",
+      "track": "Last Night"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Make It Out Alive (feat. SiR)"
+    },
+    {
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos",
+      "track": "She Wants My Money"
+    },
+    {
+      "artist": "Sonder",
+      "album": "What You Heard",
+      "track": "What You Heard"
+    },
+    {
+      "artist": "WILLOW",
+      "album": "3",
+      "track": "9"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Jalousie"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "From Eden"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Trigger Bang (feat. Giggs)"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "THUG LIFE"
+    },
+    {
+      "artist": "J Hus",
+      "album": "Must Be",
+      "track": "Must Be"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "DR. WHOEVER"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Connect"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Veins"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Don't"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Like I Used To"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Don't You Wait"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "24/7 (feat. Ella Mai)"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "A World Without Snooze, Vol. 2",
+      "track": "Casio"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Saturn (feat. Kwabs)"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "STFU2"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Almost Slipped"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "My One"
+    },
+    {
+      "artist": "Sonder",
+      "album": "What You Heard",
+      "track": "What You Heard"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Worse"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Regal"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Recent Times"
+    },
+    {
+      "artist": "J Dilla",
+      "album": "The Shining",
+      "track": "So Far to Go"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 1",
+      "track": "Pigment"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Violence (feat. Lowkey)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Fertilizer"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Dear Jean"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Da Mystery of Chessboxin'"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Skyline To"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "YAH."
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "The Language"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "In A Week"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Has This Hit?"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Nobody"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Dreaming of David",
+      "track": "Genesis"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "BEST INTEREST",
+      "track": "BEST INTEREST"
+    },
+    {
+      "artist": "Aaron Childs",
+      "album": "My Way",
+      "track": "Good 2 U"
+    },
+    {
+      "artist": "Jaden",
+      "album": "SYRE",
+      "track": "Ninety"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Grow Up"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Still Clean"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "6 Summers"
+    },
+    {
+      "artist": "IDPizzle",
+      "album": "Dior",
+      "track": "Dior - Remix"
+    },
+    {
+      "artist": "DAISY",
+      "album": "HAVE A SNACK",
+      "track": "BLANK STARES"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Nappy Wonder"
+    },
+    {
+      "artist": "Jesse James Solomon",
+      "album": "Strata",
+      "track": "Under the Sun"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2",
+      "track": "Changes"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Golden Hour"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Smoke",
+      "track": "Smoke - Remix"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Family Man"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Chewing Gum"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Fences"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Crazy, Classic, Life"
+    },
+    {
+      "artist": "Whitney",
+      "album": "Light Upon the Lake",
+      "track": "On My Own"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Blessings"
+    },
+    {
+      "artist": "Dori Valentine",
+      "album": "Bunk Beds",
+      "track": "Bunk Beds"
+    },
+    {
+      "artist": "Headie One",
+      "album": "GANG",
+      "track": "Charades"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Music Inspired by Illumination & Dr. Seuss' The Grinch",
+      "track": "Cindy Lou's Wish"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2",
+      "track": "Say It Again"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Rewind - Demo"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "We Talk all the Time"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 1",
+      "track": "U"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Blaxploitation"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "That's What You Get"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Born for This"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "ELEMENT."
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "Oxymoron",
+      "track": "Studio"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Wu-Tang Clan Ain't Nuthing ta F' Wit"
+    },
+    {
+      "artist": "Dave",
+      "album": "PSYCHODRAMA",
+      "track": "Psycho"
+    },
+    {
+      "artist": "Darkoo",
+      "album": "Gangsta",
+      "track": "Gangsta"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Pretty Sweet"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "BLOOD."
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Bring Da Ruckus"
+    },
+    {
+      "artist": "Men I Trust",
+      "album": "Seven",
+      "track": "Seven"
+    },
+    {
+      "artist": "Lady Gaga",
+      "album": "Shallow",
+      "track": "Shallow"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "Walls"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "bury a friend"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "Ghettobaby",
+      "track": "Corpus Christi"
+    },
+    {
+      "artist": "Russ Millions",
+      "album": "Keisha & Becky",
+      "track": "Keisha & Becky - Remix"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Nearer to Thee"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Come Down"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Habit",
+      "track": "Static Buzz"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Do You Know"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Lost",
+      "track": "Target On My Chest"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss",
+      "track": "BC/Rift"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Wu-Tang Forever"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Kin"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Half Man Half Shark"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "color theory",
+      "track": "bloodstream"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Yesterday's Gone",
+      "track": "Florence"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Hoe Cakes"
+    },
+    {
+      "artist": "Kiana Ledé",
+      "album": "Selfless",
+      "track": "EX"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "crushcrushcrush"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Die Wit Em"
+    },
+    {
+      "artist": "Jay Electronica",
+      "album": "A Written Testimony",
+      "track": "A.P.I.D.T.A."
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "FABRIC"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "Flexin'",
+      "track": "Flexin'"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Sorry - Original Demo"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Say When"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Cadet Limbo"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Vidual"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Desoleil (Brilliant Corners)"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "If I Ain't Got You"
+    },
+    {
+      "artist": "Paolo Nutini",
+      "album": "These Streets",
+      "track": "Rewind"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "Heart Don't Stand a Chance"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Method Man"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Intro"
+    },
+    {
+      "artist": "Men I Trust",
+      "album": "Numb",
+      "track": "Numb"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "A Calabasas Freestyle"
+    },
+    {
+      "artist": "Sampha",
+      "album": "Process",
+      "track": "Plastic 100°C"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Bermondsey Bosom (Right)"
+    },
+    {
+      "artist": "Jay Electronica",
+      "album": "Exhibit C",
+      "track": "Exhibit C"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Boyer"
+    },
+    {
+      "artist": "Chance the Rapper",
+      "album": "Acid Rap",
+      "track": "Cocoa Butter Kisses"
+    },
+    {
+      "artist": "Unknown T",
+      "album": "Daily Duppy",
+      "track": "Daily Duppy"
+    },
+    {
+      "artist": "Chance the Rapper",
+      "album": "Coloring Book",
+      "track": "Blessings (feat. Jamila Woods)"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Anklebiters"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Hold Up"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Je veux tes yeux"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "Play This On A Mountain At Sunset"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "A World Without Snooze, Vol. 2",
+      "track": "Vete"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Scrawny"
+    },
+    {
+      "artist": "Julien Baker",
+      "album": "boygenius",
+      "track": "Souvenir"
+    },
+    {
+      "artist": "Ariel Pink",
+      "album": "Mature Themes",
+      "track": "Baby"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Emergency - Live"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "We Are Broken"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 1",
+      "track": "Wait For It"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Haircut"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "!!!!!!!"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Baby Blue"
+    },
+    {
+      "artist": "King Krule",
+      "album": "King Krule",
+      "track": "Bleak Bake"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Speaking Terms"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 1",
+      "track": "Losing"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Will I Come"
+    },
+    {
+      "artist": "Rema",
+      "album": "Rema",
+      "track": "Dumebi"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "SUGARPARENTS (feat. Rico Nasty)"
+    },
+    {
+      "artist": "Dominic Fike",
+      "album": "Phone Numbers",
+      "track": "Phone Numbers"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Picture Me Better"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Cool"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "For Light"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Riot!"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "GMD (feat. Rv)"
+    },
+    {
+      "artist": "Hana Vu",
+      "album": "Sensitive",
+      "track": "Queen of High School"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Wildflowers"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Sierra Leone"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Broni"
+    },
+    {
+      "artist": "Pale Waves",
+      "album": "My Mind Makes Noises",
+      "track": "There's a Honey"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Crash"
+    },
+    {
+      "artist": "Madvillain",
+      "album": "Madvillainy",
+      "track": "Curls"
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "album": "Kyoto",
+      "track": "Kyoto"
+    },
+    {
+      "artist": "Triathalon",
+      "album": "Cold Shower",
+      "track": "South Side"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Almeda"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Sound of Rain"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+      "track": "Clan In Da Front"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "when the party's over"
+    },
+    {
+      "artist": "Don Blackman",
+      "album": "Just Can't Stay Away",
+      "track": "Just Can't Stay Away"
+    },
+    {
+      "artist": "Erykah Badu",
+      "album": "Worldwide Underground",
+      "track": "Love Of My Life (An Ode To Hip Hop) - Album Version Edit"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Splash Warning (feat. Future, Roddy Ricch and Young Thug)"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "no name"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Angel's Pulse",
+      "track": "Berlin"
+    },
+    {
+      "artist": "beabadoobee",
+      "album": "Patched Up",
+      "track": "If You Want To"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "i love you"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Three"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Guilty"
+    },
+    {
+      "artist": "Dijon",
+      "album": "Skin",
+      "track": "Skin"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss",
+      "track": "close"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Who R U?"
+    },
+    {
+      "artist": "Saba",
+      "album": "CARE FOR ME",
+      "track": "BUSY / SIRENS"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Pink Floyd"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Jackie And Wilson - Live Performance"
+    },
+    {
+      "artist": "Roddy Ricch",
+      "album": "Please Excuse Me For Being Antisocial",
+      "track": "The Box"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "Not Screwed! (interlude)"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "F.U.B.U. (feat. The-Dream & BJ The Chicago Kid)"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Hope"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "You've Got a Friend in Me",
+      "track": "You've Got a Friend in Me"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "20 Something"
+    },
+    {
+      "artist": "Robin Thicke",
+      "album": "The Evolution of Robin Thicke",
+      "track": "Lost Without U"
+    },
+    {
+      "artist": "Kali Uchis",
+      "album": "Por Vida",
+      "track": "Loner"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Interlude: Moving On"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Drive and Disconnect"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN.",
+      "track": "PRIDE."
+    },
+    {
+      "artist": "Aidan Ochre",
+      "album": "Lonely",
+      "track": "Lonely"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Still"
+    },
+    {
+      "artist": "Smino",
+      "album": "blkswn",
+      "track": "Amphetamine"
+    },
+    {
+      "artist": "Pinegrove",
+      "album": "Skylight",
+      "track": "Rings"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "WHOLE WORLD (feat. Maxo)",
+      "track": "WHOLE WORLD (feat. Maxo)"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "The One Two"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Only Friend"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Border Line"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Rambo"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Where This Flower Blooms (feat. Frank Ocean)"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Make Me Feel"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same",
+      "track": "Tuscan Leather"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Buffed Sky"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Borderline (An Ode to Self Care) (feat. Q-Tip)"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "CrasH"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "Pilgrim's Paradise",
+      "track": "Streetcar"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "No Need for a Leader"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Doris",
+      "track": "Chum"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard",
+      "track": "Tints (feat. Kendrick Lamar)"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Bruise"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Sweet FA",
+      "track": "Peach Pit"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "Titanic Rising"
+    },
+    {
+      "artist": "King Krule",
+      "album": "Man Alive!",
+      "track": "Stoned Again"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "New Builds"
+    },
+    {
+      "artist": "Beach Bunny",
+      "album": "Sports",
+      "track": "Sports"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "SOHO"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "Eugene"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Home"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 1",
+      "track": "Facts"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "Emergency Blimp"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "The Prawn Song"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Camo"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two",
+      "track": "Work (feat. K-Trap)"
+    },
+    {
+      "artist": "Crumb",
+      "album": "Locket",
+      "track": "Recently Played"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Tell Me It's Okay - Demo"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "CHopstix (feat. Travis Scott)"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Guinnesses feat. Angelika & 4ize"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Drop the Guillotine"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "I Like That"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "100 Summers"
+    },
+    {
+      "artist": "Logic",
+      "album": "No Pressure",
+      "track": "No Pressure Intro"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "The Opposite of Afternoon"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Wit the Shits (W.T.S) [feat. Melii]"
+    },
+    {
+      "artist": "Russ",
+      "album": "ZOO",
+      "track": "Voicemail"
+    },
+    {
+      "artist": "LAUNDRY DAY",
+      "album": "HOMESICK",
+      "track": "Harvard"
+    },
+    {
+      "artist": "Chance the Rapper",
+      "album": "Acid Rap",
+      "track": "Lost"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Do Not Wait"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Pilot Jones"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter",
+      "track": "No Friend"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean",
+      "track": "Scorpio Rising"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "A World Without Snooze, Vol. 2",
+      "track": "Nothing Changes"
+    },
+    {
+      "artist": "Crumb",
+      "album": "Locket",
+      "track": "Thirty-Nine"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Any God of Yours"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Ice Water"
+    },
+    {
+      "artist": "Fiona Apple",
+      "album": "Tidal",
+      "track": "Criminal"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Don't Judge Me"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Solo"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Shrike"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "Big Fan of the Sesh, Vol. 1",
+      "track": "Perdida"
+    },
+    {
+      "artist": "Phony Ppl",
+      "album": "Yesterday's Tomorrow",
+      "track": "Somehow."
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Ivy"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Kookies"
+    },
+    {
+      "artist": "100 gecs",
+      "album": "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]",
+      "track": "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Lens",
+      "track": "Lens"
+    },
+    {
+      "artist": "Kaiit",
+      "album": "Live From Her Room",
+      "track": "Natural Woman"
+    },
+    {
+      "artist": "Only The Family",
+      "album": "Lil Durk Presents: Only the Family Involved, Vol. 2",
+      "track": "No Auto Durk"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising",
+      "track": "A Lot's Gonna Change"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "What You Like"
+    },
+    {
+      "artist": "Bearface",
+      "album": "No One Like U (feat. No Rome)",
+      "track": "No One Like U (feat. No Rome)"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Stop This Song (Love Sick Melody)"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Freedom (feat. Kendrick Lamar)"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "Distant"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Intro"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Devotion"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Be Alone"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "It Will Come Back"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II",
+      "track": "From the Sun"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "Ghettobaby",
+      "track": "Georgia"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "A Lizard State"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 1",
+      "track": "Jungle"
+    },
+    {
+      "artist": "Mereba",
+      "album": "The Jungle Is The Only Way Out",
+      "track": "Sandstorm (feat. JID)"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Money"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence",
+      "track": "J'OUVERT"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Sorry Not Sorry"
+    },
+    {
+      "artist": "Kelsey Lu",
+      "album": "Blood",
+      "track": "Due West"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush",
+      "track": "Anytime"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story",
+      "track": "Tattoo"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Beef Rap"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "my strange addiction"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "You Seemed so Happy"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Nombreux"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Tommy's Party"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Lockdown",
+      "track": "Lockdown"
+    },
+    {
+      "artist": "Sleepy Hallow",
+      "album": "DON'T SLEEP",
+      "track": "Agony"
+    },
+    {
+      "artist": "HUNNY",
+      "album": "Pain / Ache / Loving",
+      "track": "July"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning",
+      "track": "Carluccio"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Championships"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Peach"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Being so Normal"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "So Afraid"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Wins & Losses",
+      "track": "1942 Flows"
+    },
+    {
+      "artist": "Jay Electronica",
+      "album": "A Written Testimony",
+      "track": "Ezekiel’s Wheel feat. The-Dream"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol",
+      "track": "Victime des réseaux"
+    },
+    {
+      "artist": "Black Star",
+      "album": "Mos Def & Talib Kweli Are Black Star",
+      "track": "Thieves In The Night"
+    },
+    {
+      "artist": "PJ Morton",
+      "album": "PAUL",
+      "track": "MAGA? (feat. Angela Rye)"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Foreigner's God"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs",
+      "track": "Shattered Dreams"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Nina Cried Power"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ",
+      "track": "The Ooz"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon",
+      "track": "Easy Easy"
+    },
+    {
+      "artist": "BJ The Chicago Kid",
+      "album": "1123",
+      "track": "Get Away"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling",
+      "track": "Lilo"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Window"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Crumble"
+    },
+    {
+      "artist": "Superfood",
+      "album": "Bambino",
+      "track": "I Can’t See"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Don't Touch My Hair (feat. Sampha)"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home",
+      "track": "We Deal With the Freak'n (intermission)"
+    },
+    {
+      "artist": "King Krule",
+      "album": "King Krule",
+      "track": "The Noose of Jah City"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Would That I"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell",
+      "track": "Blue Bucket of Gold"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Pink + White"
+    },
+    {
+      "artist": "Jhené Aiko",
+      "album": "Triggered (freestyle)",
+      "track": "Triggered (freestyle)"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk",
+      "track": "Dangerous (feat. Kid Cudi)"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Gladly"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table",
+      "track": "Interlude: Pedestals"
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "Apollo XXI",
+      "track": "N Side"
+    },
+    {
+      "artist": "girl in red",
+      "album": "watch you sleep.",
+      "track": "watch you sleep."
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Orlando"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!",
+      "track": "Miracle"
+    },
+    {
+      "artist": "Sonder",
+      "album": "Too Fast",
+      "track": "Too Fast"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25",
+      "track": "Prayer Song"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story",
+      "track": "Ten Ten"
+    },
+    {
+      "artist": "since westbrook",
+      "album": "alone girl",
+      "track": "alone girl"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "Don't Hurt Yourself (feat. Jack White)"
+    },
+    {
+      "artist": "A2",
+      "album": "BLUE",
+      "track": "Gold"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Cherry Wine - Live"
+    },
+    {
+      "artist": "Two Door Cinema Club",
+      "album": "Tourist History",
+      "track": "What You Know"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "Orbit"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "BLACKJACK"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans",
+      "track": "Cupid"
+    },
+    {
+      "artist": "MED",
+      "album": "Bad Neighbor",
+      "track": "Knock Knock"
+    },
+    {
+      "artist": "Peachy!",
+      "album": "Falling for U",
+      "track": "Falling for U"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu",
+      "track": "The Bird"
+    },
+    {
+      "artist": "girl in red",
+      "album": "we fell in love in october / forget her",
+      "track": "forget her"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Lost",
+      "track": "Came Right Back"
+    },
+    {
+      "artist": "22Gz",
+      "album": "Suburban, Pt. 2",
+      "track": "Suburban, Pt. 2"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "Anything"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Pink Matter"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "Operation: Doomsday (Complete)",
+      "track": "Rhymes Like Dimes"
+    },
+    {
+      "artist": "Mac Miller",
+      "album": "Circles",
+      "track": "Good News"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Rex (Intro)"
+    },
+    {
+      "artist": "G Herbo",
+      "album": "Still Swervin",
+      "track": "Sacrifice"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "Solo (Reprise)"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism",
+      "track": "Something For Your M.I.N.D."
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan",
+      "track": "Minetta Creek"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "Overly Verbose Email Series Pt. III"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Deep Fried Frenz"
+    },
+    {
+      "artist": "Oliver Tree",
+      "album": "Alien Boy EP",
+      "track": "Alien Boy"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Someone New"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Worlds Apart"
+    },
+    {
+      "artist": "half•alive",
+      "album": "arrow",
+      "track": "arrow"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde",
+      "track": "White Ferrari"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame",
+      "track": "Waste (feat. Lady Chann)"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion",
+      "track": "Basic Need"
+    },
+    {
+      "artist": "Common",
+      "album": "Be",
+      "track": "GO!"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS",
+      "track": "You Got Me"
+    },
+    {
+      "artist": "Mulherin",
+      "album": "Human Nature",
+      "track": "Friends"
+    },
+    {
+      "artist": "Fivio Foreign",
+      "album": "800 BC",
+      "track": "Wetty"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD",
+      "track": "Kon Queso"
+    },
+    {
+      "artist": "bLAck pARty",
+      "album": "Endless Summer",
+      "track": "Dancing"
+    },
+    {
+      "artist": "Swell",
+      "album": "Majestic Casual - Chapter 3",
+      "track": "i’m sorry"
+    },
+    {
+      "artist": "Justin Timberlake",
+      "album": "Justified",
+      "track": "Rock Your Body"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour",
+      "track": "Rainbow"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore",
+      "track": "Daydreaming"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Start"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy",
+      "track": "Sometimes..."
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L",
+      "track": "Let Em' Know"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss",
+      "track": "Bruise Cruise"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn",
+      "track": "When Saturn Returns - Interlude"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY",
+      "track": "Georgia"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son",
+      "track": "Gang Over Luv"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Immunity",
+      "track": "Softly"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Hot Knifer"
+    },
+    {
+      "artist": "beabadoobee",
+      "album": "Patched Up",
+      "track": "Tired"
+    },
+    {
+      "artist": "Jhené Aiko",
+      "album": "Trip",
+      "track": "LSD"
+    },
+    {
+      "artist": "Domo Genesis",
+      "album": "Genesis",
+      "track": "Wanderer (feat. Tay Walker)"
+    },
+    {
+      "artist": "Waxahatchee",
+      "album": "Saint Cloud",
+      "track": "Can’t Do Much"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "I Don't Like Shit, I Don't Go Outside: An Album by Earl Sweatshirt",
+      "track": "Faucet"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys",
+      "track": "Heartburn"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Respect the Game"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal",
+      "track": "Alrighty Aphrodite"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier",
+      "track": "Like Real People Do"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works",
+      "track": "One More Time, Please"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens",
+      "track": "Remember When"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE",
+      "track": "Sweet Life"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "track": "all the good girls go to hell"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free",
+      "track": "Belly (The Grass Stains)"
+    },
+    {
+      "artist": "Jakob Ogawa",
+      "album": "Velvet Light",
+      "track": "Velvet Light"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE",
+      "track": "CHINGY"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl",
+      "track": "The Weekend"
+    },
+    {
+      "artist": "David Sanborn",
+      "album": "Then Again: The David Sanborn Anthology",
+      "track": "Back Again"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To",
+      "track": "Five-Time 2nd Place Winner"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships",
+      "track": "Trauma"
+    },
+    {
+      "artist": "Coops",
+      "album": "Lost Soul",
+      "track": "Odyssey (feat. Elz)"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "To Pimp A Butterfly",
+      "track": "Complexion (A Zulu Love)"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade",
+      "track": "6 Inch (feat. The Weeknd)"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer",
+      "track": "Jane's Dream"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown",
+      "track": "Thames Water"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "CASE STUDY 01",
+      "track": "ARE YOU OK?"
+    },
+    {
+      "artist": "Doja Cat",
+      "album": "Hot Pink",
+      "track": "Say So"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "Clairo",
+      "album": "Bags"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Some Rap Songs"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Hozier"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Oxnard"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "GINGER"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Paramore"
+    },
+    {
+      "artist": "WILLOW",
+      "album": "WILLOW"
+    },
+    {
+      "artist": "Break Hamptons",
+      "album": "Hood Puppy, Vol. 1"
+    },
+    {
+      "artist": "Buddy",
+      "album": "Harlan & Alondra"
+    },
+    {
+      "artist": "Jay Electronica",
+      "album": "A Written Testimony"
+    },
+    {
+      "artist": "bLAck pARty",
+      "album": "Endless Summer"
+    },
+    {
+      "artist": "Joey Bada$$",
+      "album": "B4.DA.$$"
+    },
+    {
+      "artist": "Miguel",
+      "album": "All I Want Is You"
+    },
+    {
+      "artist": "Unknown Mortal Orchestra",
+      "album": "II"
+    },
+    {
+      "artist": "girl in red",
+      "album": "chapter 2"
+    },
+    {
+      "artist": "Lana Del Rey",
+      "album": "Norman Fucking Rockwell!"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "You and Your Friends"
+    },
+    {
+      "artist": "ROLE MODEL",
+      "album": "girl in new york"
+    },
+    {
+      "artist": "J Hus",
+      "album": "Daily Duppy (feat. GRM Daily)"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Lens"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "You're A Mean One, Mr. Grinch"
+    },
+    {
+      "artist": "beabadoobee",
+      "album": "Patched Up"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "DHL"
+    },
+    {
+      "artist": "DAISY",
+      "album": "HAVE A SNACK"
+    },
+    {
+      "artist": "zack villere",
+      "album": "Cardboard City"
+    },
+    {
+      "artist": "girl in red",
+      "album": "watch you sleep."
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "when the party's over"
+    },
+    {
+      "artist": "Free Nationals",
+      "album": "Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)"
+    },
+    {
+      "artist": "Musiq Soulchild",
+      "album": "Aijuswanaseing"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Patchwork"
+    },
+    {
+      "artist": "A$AP Rocky",
+      "album": "A$AP Forever (feat. Moby)"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Clean"
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "Apollo XXI"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Angel's Pulse"
+    },
+    {
+      "artist": "Drake",
+      "album": "Nothing Was The Same"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Moon Undah Water"
+    },
+    {
+      "artist": "Kevin Garrett",
+      "album": "Mellow Drama"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Habit"
+    },
+    {
+      "artist": "Roy Blair",
+      "album": "GRAFFITI"
+    },
+    {
+      "artist": "Weyes Blood",
+      "album": "Titanic Rising"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "ARIZONA BABY"
+    },
+    {
+      "artist": "Angèle",
+      "album": "Brol"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "A World Without Snooze, Vol. 2"
+    },
+    {
+      "artist": "Solange",
+      "album": "A Seat at the Table"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "album": "DAMN."
+    },
+    {
+      "artist": "Brad stank",
+      "album": "Eternal Slowdown"
+    },
+    {
+      "artist": "Billie Eilish",
+      "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Ventura"
+    },
+    {
+      "artist": "Justin Timberlake",
+      "album": "Justified"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "New House"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "American Boyfriend: A Suburban Love Story"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "War"
+    },
+    {
+      "artist": "Tirzah",
+      "album": "Devotion"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Sweet FA"
+    },
+    {
+      "artist": "Snail Mail",
+      "album": "Lush"
+    },
+    {
+      "artist": "King Krule",
+      "album": "6 Feet Beneath the Moon"
+    },
+    {
+      "artist": "Two Door Cinema Club",
+      "album": "Tourist History"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "FEET OF CLAY"
+    },
+    {
+      "artist": "FKA twigs",
+      "album": "MAGDALENE"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "color theory"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Boy in Jeans"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "I Want You Around"
+    },
+    {
+      "artist": "Beyoncé",
+      "album": "Lemonade"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Immunity"
+    },
+    {
+      "artist": "Aminé",
+      "album": "ONEPOINTFIVE"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Lil Uzi Vert vs. The World"
+    },
+    {
+      "artist": "King Krule",
+      "album": "The OOZ"
+    },
+    {
+      "artist": "GZA",
+      "album": "Liquid Swords"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "Blonde"
+    },
+    {
+      "artist": "Wu-Tang Clan",
+      "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]"
+    },
+    {
+      "artist": "Waxahatchee",
+      "album": "Saint Cloud"
+    },
+    {
+      "artist": "Headie One",
+      "album": "The One Two"
+    },
+    {
+      "artist": "Kenny Allstar",
+      "album": "Tracksuit Love"
+    },
+    {
+      "artist": "King Krule",
+      "album": "King Krule"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "Who Hurt You?"
+    },
+    {
+      "artist": "J. Cole",
+      "album": "High For Hours"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Dark Circles"
+    },
+    {
+      "artist": "Thundercat",
+      "album": "It Is What It Is"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "For Young Hearts"
+    },
+    {
+      "artist": "zack villere",
+      "album": "A Feeling"
+    },
+    {
+      "artist": "zack villere",
+      "album": "Sore Throat"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Casino"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Make Luv"
+    },
+    {
+      "artist": "Lily Allen",
+      "album": "No Shame"
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "Apollo XXI"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Face to Face"
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "album": "Stranger in the Alps"
+    },
+    {
+      "artist": "Sufjan Stevens",
+      "album": "Carrie & Lowell"
+    },
+    {
+      "artist": "Alicia Keys",
+      "album": "The Diary Of Alicia Keys"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Bcos U Will Never B Free"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Lost"
+    },
+    {
+      "artist": "Gorillaz",
+      "album": "Demon Days"
+    },
+    {
+      "artist": "SZA",
+      "album": "Ctrl"
+    },
+    {
+      "artist": "Dijon",
+      "album": "Nico's Red Truck"
+    },
+    {
+      "artist": "Wallows",
+      "album": "Nothing Happens"
+    },
+    {
+      "artist": "Young M.A",
+      "album": "Walk"
+    },
+    {
+      "artist": "Dominic Fike",
+      "album": "Don't Forget About Me, Demos"
+    },
+    {
+      "artist": "Steve Lacy",
+      "album": "Steve Lacy's Demo"
+    },
+    {
+      "artist": "Noname",
+      "album": "Room 25"
+    },
+    {
+      "artist": "girl in red",
+      "album": "we fell in love in october / forget her"
+    },
+    {
+      "artist": "Clairo",
+      "album": "Closer To You"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "IGOR"
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "It Might Be Time"
+    },
+    {
+      "artist": "girl in red",
+      "album": "chapter 1"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "T R A P S O U L"
+    },
+    {
+      "artist": "J Hus",
+      "album": "Big Conspiracy"
+    },
+    {
+      "artist": "Crumb",
+      "album": "Locket"
+    },
+    {
+      "artist": "King Krule",
+      "album": "Alone, Omen 3"
+    },
+    {
+      "artist": "Travis Scott",
+      "album": "Birds In The Trap Sing McKnight"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "- Ugh, those feels again"
+    },
+    {
+      "artist": "SOPHIETHEHOMIE",
+      "album": "Cabin Fever - EP"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "BORN LIKE THIS (Redux)"
+    },
+    {
+      "artist": "Kacey Musgraves",
+      "album": "Golden Hour"
+    },
+    {
+      "artist": "Biig Piig",
+      "album": "Big Fan of the Sesh, Vol. 1"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 1"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "DYING 4 YOUR LOVE"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Fuck The World"
+    },
+    {
+      "artist": "BROCKHAMPTON",
+      "album": "iridescence"
+    },
+    {
+      "artist": "Two Door Cinema Club",
+      "album": "False Alarm"
+    },
+    {
+      "artist": "MF DOOM",
+      "album": "MM...FOOD"
+    },
+    {
+      "artist": "Omar Apollo",
+      "album": "Today (feat. Teo Halm)"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Peach Fuzz"
+    },
+    {
+      "artist": "Pool Kids",
+      "album": "Music to Practice Safe Sex To"
+    },
+    {
+      "artist": "IDPizzle",
+      "album": "Dior"
+    },
+    {
+      "artist": "Q",
+      "album": "Forest Green"
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "album": "Punisher"
+    },
+    {
+      "artist": "Bon Iver",
+      "album": "For Emma, Forever Ago"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "channel ORANGE"
+    },
+    {
+      "artist": "Tory Lanez",
+      "album": "Chixtape 5"
+    },
+    {
+      "artist": "Anderson .Paak",
+      "album": "Malibu"
+    },
+    {
+      "artist": "Earl Sweatshirt",
+      "album": "Nowhere2go"
+    },
+    {
+      "artist": "Ryan Beatty",
+      "album": "Dreaming of David"
+    },
+    {
+      "artist": "Charli XCX",
+      "album": "February 2017 (feat. Clairo and Yaeji)"
+    },
+    {
+      "artist": "Bon Iver",
+      "album": "i,i"
+    },
+    {
+      "artist": "Archy Marshall",
+      "album": "A New Place 2 Drown"
+    },
+    {
+      "artist": "Joey Bada$$",
+      "album": "1999"
+    },
+    {
+      "artist": "Logic",
+      "album": "Under Pressure"
+    },
+    {
+      "artist": "H.E.R.",
+      "album": "H.E.R. Volume 2"
+    },
+    {
+      "artist": "Paramore",
+      "album": "Riot!"
+    },
+    {
+      "artist": "Kevin Abstract",
+      "album": "Ghettobaby"
+    },
+    {
+      "artist": "Brent Faiyaz",
+      "album": "Sonder Son"
+    },
+    {
+      "artist": "The Japanese House",
+      "album": "Good at Falling"
+    },
+    {
+      "artist": "Kaiit",
+      "album": "Live From Her Room"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "You"
+    },
+    {
+      "artist": "Headie One",
+      "album": "Music x Road"
+    },
+    {
+      "artist": "Drake",
+      "album": "Views"
+    },
+    {
+      "artist": "Blood Orange",
+      "album": "Negro Swan"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Flower Boy"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Only Trying 2 Tell U"
+    },
+    {
+      "artist": "Bryson Tiller",
+      "album": "Finesse"
+    },
+    {
+      "artist": "Paramore",
+      "album": "After Laughter"
+    },
+    {
+      "artist": "Janelle Monáe",
+      "album": "Dirty Computer"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "album": "Futsal Shuffle 2020"
+    },
+    {
+      "artist": "Snoh Aalegra",
+      "album": "FEELS"
+    },
+    {
+      "artist": "half•alive",
+      "album": "still feel."
+    },
+    {
+      "artist": "Greyson Chance",
+      "album": "portraits"
+    },
+    {
+      "artist": "Frank Ocean",
+      "album": "In My Room"
+    },
+    {
+      "artist": "King Krule",
+      "album": "Man Alive!"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "Christopher Walking"
+    },
+    {
+      "artist": "Chance the Rapper",
+      "album": "The Man Who Has Everything"
+    },
+    {
+      "artist": "Azealia Banks",
+      "album": "1991 - EP"
+    },
+    {
+      "artist": "Rex Orange County",
+      "album": "Pony"
+    },
+    {
+      "artist": "Jack Harlow",
+      "album": "THRU THE NIGHT (feat. Bryson Tiller)"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "BEST INTEREST"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!"
+    },
+    {
+      "artist": "Julien Baker",
+      "album": "boygenius"
+    },
+    {
+      "artist": "Jaden",
+      "album": "The Sunset Tapes: A Cool Tape Story"
+    },
+    {
+      "artist": "Superorganism",
+      "album": "Superorganism"
+    },
+    {
+      "artist": "Nao",
+      "album": "Saturn"
+    },
+    {
+      "artist": "Soccer Mommy",
+      "album": "Collection"
+    },
+    {
+      "artist": "Peach Pit",
+      "album": "Being So Normal"
+    },
+    {
+      "artist": "half•alive",
+      "album": "arrow"
+    },
+    {
+      "artist": "Tyler, The Creator",
+      "album": "Music Inspired by Illumination & Dr. Seuss' The Grinch"
+    },
+    {
+      "artist": "Puma Blue",
+      "album": "Blood Loss"
+    },
+    {
+      "artist": "ScHoolboy Q",
+      "album": "CrasH Talk"
+    },
+    {
+      "artist": "Pop Smoke",
+      "album": "Meet The Woo"
+    },
+    {
+      "artist": "Thundercat",
+      "album": "Dragonball Durag"
+    },
+    {
+      "artist": "Tame Impala",
+      "album": "Patience"
+    },
+    {
+      "artist": "Loyle Carner",
+      "album": "Not Waving, But Drowning"
+    },
+    {
+      "artist": "Summer Walker",
+      "album": "Over It"
+    },
+    {
+      "artist": "LAUSSE THE CAT",
+      "album": "The Girl, the Cat and the Tree"
+    },
+    {
+      "artist": "Daniel Caesar",
+      "album": "CASE STUDY 01"
+    },
+    {
+      "artist": "Solange",
+      "album": "When I Get Home"
+    },
+    {
+      "artist": "Jhené Aiko",
+      "album": "None Of Your Concern"
+    },
+    {
+      "artist": "Jay Som",
+      "album": "Everybody Works"
+    },
+    {
+      "artist": "KAYTRANADA",
+      "album": "BUBBA"
+    },
+    {
+      "artist": "Meek Mill",
+      "album": "Championships"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Freakonomics Radio",
+      "publisher": "Freakonomics Radio"
+    },
+    {
+      "name": "Intelligence Squared",
+      "publisher": "Intelligence Squared"
+    },
+    {
+      "name": "Land of the Giants",
+      "publisher": "Recode"
+    },
+    {
+      "name": "Sean Carroll's Mindscape: Science, Society, Philosophy, Culture, Arts, and Ideas",
+      "publisher": "Sean Carroll | Wondery"
+    },
+    {
+      "name": "The Vergecast",
+      "publisher": "The Verge"
+    },
+    {
+      "name": "The Wooden Spoon",
+      "publisher": "Sixteenth Productions"
+    },
+    {
+      "name": "Today, Explained",
+      "publisher": "Vox"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "other": [
+  ]
+}
